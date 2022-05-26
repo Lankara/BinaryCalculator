@@ -1,0 +1,15 @@
+D:\Cyviz\BinaryCalcNew\bin\Debug\BinaryCalcNew.exe.config
+D:\Cyviz\BinaryCalcNew\bin\Debug\BinaryCalcNew.exe
+D:\Cyviz\BinaryCalcNew\bin\Debug\BinaryCalcNew.pdb
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.csproj.AssemblyReference.cache
+D:\Cyviz\BinaryCalcNew\obj\Debug\MainWindow.g.cs
+D:\Cyviz\BinaryCalcNew\obj\Debug\App.g.cs
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew_MarkupCompile.cache
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew_MarkupCompile.lref
+D:\Cyviz\BinaryCalcNew\obj\Debug\MainWindow.baml
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.g.resources
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.Properties.Resources.resources
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.csproj.GenerateResource.cache
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.csproj.CoreCompileInputs.cache
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.exe
+D:\Cyviz\BinaryCalcNew\obj\Debug\BinaryCalcNew.pdb
